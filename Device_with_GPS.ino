@@ -3,8 +3,8 @@
 #include <ESP8266WiFi.h>
 #include "HTTPSRedirect.h"
 
-const char* ssid = "b";
-const char* password = "qwertyasd";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // The ID below comes from Google Sheets.
 // Towards the bottom of this page, it will explain how this can be obtained
