@@ -15,7 +15,7 @@ Using AI and Deep Learning , we can transform this data into an application whic
 -> Grove - Multichannel Gas Sensor
 -> Nova PM Sensor SDS011 High Precision Laser PM2.5
 -> Arduino UNO for calculating the data.
--> Deep Learning for predicting the air quality 
+-> Deep Learning for predicting the air quality. 
 
 
 For project details go to this link:
