@@ -8,14 +8,14 @@ We have categorized our solution into two categories:-
 Using AI and Deep Learning , we can transform this data into an application which can predict which areas will have high pollution during certain period of a day. We can combine this prediction with Google maps to prompt the user to take an alternative route of traversal.
 
 # TECHNOLOGY STACK
-esp8266 module - for posting the data to cloud
-MQ series sensors - for gas concentration calculation(e.g.- MQ-135, MQ-7, MQ2, MQ-131 etc.)
-GPS module - for tracking the location of device
-Particulate matter sensors - like PPD42NS(dust sensor) for finding the concentration of particulate matter in air.
-Grove - Multichannel Gas Sensor
-Nova PM Sensor SDS011 High Precision Laser PM2.5
-Arduino UNO for calculating the data.
-Deep Learning for predicting the air quality 
+-> esp8266 module - for posting the data to cloud
+-> MQ series sensors - for gas concentration calculation(e.g.- MQ-135, MQ-7, MQ2, MQ-131 etc.)
+-> GPS module - for tracking the location of device
+-> Particulate matter sensors - like PPD42NS(dust sensor) for finding the concentration of particulate matter in air.
+-> Grove - Multichannel Gas Sensor
+-> Nova PM Sensor SDS011 High Precision Laser PM2.5
+-> Arduino UNO for calculating the data.
+-> Deep Learning for predicting the air quality 
 
 
 For project details go to this link:
