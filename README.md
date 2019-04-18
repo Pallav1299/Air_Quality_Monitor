@@ -38,3 +38,6 @@ Using AI and Deep Learning , we can transform this data into an application whic
 
 For project details go to this link:
 http://dic.puchd.ac.in/?p=1938
+
+
+![alt text](https://raw.githubusercontent.com/pallav1299/Air_Quality_monitor/master/Block_Diagram.png)
